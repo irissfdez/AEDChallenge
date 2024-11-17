@@ -1,0 +1,30 @@
+Componente conectado 1: {'2a4877f6-c699-46a6-971f-1d1c75977ae8', '13a8194a-79a9-4004-8711-e6d89efa0014', 'cda2fafe-4b1e-4581-9fe0-1fb6d3e79aa3'}
+Componente conectado 2: {'725b1704-4da0-423d-b51a-b465f2a41906', 'b8d50918-f0b5-4452-aae3-c097eafd99ab', 'ae5a6bbe-8911-4195-9589-4ce25d6ddc8e'}
+Componente conectado 3: {'325e158b-bd36-48f6-9aea-cf55426808fb', '22df404a-20e7-40e9-a9ad-59a743dff09f', 'b6922470-df9d-4b64-84e6-6852f681f69c'}
+Componente conectado 4: {'cbbd8e4f-11b4-4465-8772-9855c1f87164', '57853d67-cc16-4168-8a06-6ac01544d9d0', 'fcee953a-30c6-475a-b65c-ec49223281e9'}
+Componente conectado 5: {'f8464b68-156d-433b-85a9-19e5d39ce48a', 'e136439c-1902-442f-9225-504b049a8eb6'}
+Componente conectado 6: {'8e90a768-41d7-4cbc-826b-9e0b3453f3d2', 'a82e8bf9-2c74-4afd-ba71-4526c73cc133'}
+Componente conectado 7: {'cd42cf34-33e2-4ebc-b9b0-b0e7ca02886c', '0bd85721-4cf5-46c0-87d3-67ea1dfe1964'}
+Componente conectado 8: {'22be2ab6-d7eb-4cf2-8be8-7fd63c2f8fa3', 'd8c82783-735b-43a9-9d4c-0a284794911d'}
+Componente conectado 9: {'2714f037-8b93-4606-8be1-6d90f0a1a370', 'e51c17b6-2f8e-472f-a42e-beafe439e376'}
+Componente conectado 10: {'458f52d8-d182-4c1d-83a2-fbf61281e9bd', '1ce0b7bc-ca06-4860-89e0-3e4c704b777b', 'd59ff4c3-77d7-40f9-bc28-abe5921f2318'}
+Componente conectado 11: {'174c1f22-27ea-4429-9b20-7b85b0468cc0', '02638d36-f6bd-4d60-b10c-147caefeb222', 'c25f3904-9b22-4d73-83f8-8e950b4b1dca'}
+Componente conectado 12: {'402716d9-a417-4cc1-9602-030eb54babda', 'c33e3761-8632-4609-82a6-5d954f5f1e5a', '5cc1d70c-9f2a-4f94-90fa-f5882281238c', '1fc7a0a9-12fd-4a4b-9382-3babb7b4023a'}
+Componente conectado 13: {'a887d6e4-99b9-42ec-98cb-71e250a17da3', '41bad59d-750a-4521-9d6e-d01c558e804b'}
+Componente conectado 14: {'54b717da-af5a-4222-9a2f-eb868008193a', '93a7f8b1-a901-40e9-89b3-4a0e6b3355cf', '2c76459d-de2a-4e61-b420-9520260fdf41'}
+Componente conectado 15: {'74425515-a7ef-4ca9-a8e4-ab0c0c086ace', 'd9c40299-abd9-4b2f-bdcc-5e45f0e19ffc'}
+Componente conectado 16: {'b3d0a2d3-9dd6-48f1-a9b1-ffeaba3e1781', 'd36c0f32-8b32-460d-a2e8-042dd624d9d3'}
+Componente conectado 17: {'d95659ab-ee99-45a2-bfc1-aca8bfca4359', 'ddc24869-63e6-4ed7-8f99-8101b1a3190c'}
+Componente conectado 18: {'f84c9ebb-a86e-4eb1-b51e-33a3c868b8ef', '9b61cf96-4a8c-451f-b5f8-ca2ada676351'}
+Componente conectado 19: {'3cf9e863-1e50-45f1-ba83-ae8e70dab383', '8a4be83f-e3b2-4eab-9cf3-90de789be65b'}
+Componente conectado 20: {'0cc72e8b-cf50-44c2-8512-7fffc8561916', 'b9df758e-1c05-4ab5-9d72-dfa7cd81f735'}
+Componente conectado 21: {'9f3851e1-0e55-4348-bea2-a1c183229141', '1a22fa01-da83-43a7-af3c-d68ad1879a92'}
+Componente conectado 22: {'520e16fc-6b18-4431-bd58-29e814c5463d', '9df2bd03-e5e9-4a92-833f-5b51ae109ee3', 'cf9023f4-dafe-4ceb-b720-ec2ae6ecb789'}
+Componente conectado 23: {'76112bd4-ac69-4588-b02b-d480c0709660', '47cc27d9-7ae4-41c9-86eb-48c4423616dd', '718026ee-ef77-46c2-bc93-29d31ac30a62'}
+Componente conectado 24: {'1ca5745c-e6e2-468b-89a1-82f9509873df', '0db64060-0ccd-412e-84c9-566f8e299fd7'}
+Componente conectado 25: {'fa0ea0a3-80bc-44fa-ad5f-0cf2417e7891', '9ef3b38f-667d-465a-91b5-1b513384bd1a'}
+Componente conectado 26: {'fcbd26d3-6334-4ef1-9ef5-2a05121547f7', '890d188e-519c-4b67-a5bb-f473a23a9dbb'}
+Componente conectado 27: {'8f42eea2-7183-4025-9c80-46e08470551c', '4ea33b47-0f44-4d1e-a61a-7204d0b07166', 'ad2bb933-8be1-4225-90df-ca94b3b7adfd'}
+Componente conectado 28: {'661b584b-1122-4113-b1fc-7cda2935a700', '2ded8b20-346e-4d31-9a5c-11e0b1e7a98b'}
+Componente conectado 29: {'b5bdaad4-2b82-42ae-b150-fb575aa312f7', '654ad47a-47eb-4612-a32c-7906f5783240', 'ca0dfccf-5819-4419-9ab1-2cab701ddf46'}
+Componente conectado 30: {'2ce390e5-bc0d-4745-8555-f6ad124dae20', '464accd9-919f-4f86-b1af-a730553bdbb6'}
